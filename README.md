@@ -56,7 +56,7 @@
 
 ## ⚙️ Activities
 
-    - [ ] Go Fundamentals.
+    - [x] Go Fundamentals.
     - [ ] TCP, Scanners, And Proxies.
     - [ ] HTTP Client and Remote Interaction with tools.
     - [ ] HTTP Servers, Routing, and Middleware.
